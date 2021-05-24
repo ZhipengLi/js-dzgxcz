@@ -1,0 +1,7 @@
+this is 
+some > kind
+of & test text.
+simple
+for < the
+testing purpose
+.
