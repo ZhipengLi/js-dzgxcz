@@ -1,0 +1,11 @@
+this is 
+some > kind
+of & test text.
+simple
+for < the
+testing purpose
+.
+
+SharePoint is a web-based collaborative platform that integrates with Microsoft Office. Launched in 2001,[5] SharePoint is primarily sold as a document management and storage system, but the product is highly configurable and usage varies substantially among organizations.
+
+Microsoft states that SharePoint has 190 million users across 200,000 customer organizations.[6]
